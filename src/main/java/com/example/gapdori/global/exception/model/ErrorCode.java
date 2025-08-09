@@ -11,3 +11,4 @@ public enum ErrorCode {
     private final int statusCode;
     private final String message;
 }
+

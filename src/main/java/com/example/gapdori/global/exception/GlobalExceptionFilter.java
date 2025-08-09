@@ -46,3 +46,4 @@ public class GlobalExceptionFilter extends OncePerRequestFilter {
         objectMapper.writeValue(response.getWriter(), errorResponse);
     }
 }
+
